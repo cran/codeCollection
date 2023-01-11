@@ -17,7 +17,7 @@ tpksaKoodit
 }
 \description{
 Statistics Finland causes of death time series codes
-( \url{https://tilastokeskus.fi/til/ksyyt/ksyyt_2018-11-12_luo_001.pdf} )
+( \url{https://stat.fi/en/luokitukset/kuolinsyyt/kuolinsyyt_1_20210101/} )
 ”@note Only in English
 }
 \keyword{datasets}

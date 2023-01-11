@@ -81,6 +81,17 @@ comb.levels<-function(x,N.max=10,lang="fi"){
 #'   \item{ fi }{ Label in English}
 #' }
 "ATCKoodit"
+#' @title ATC codes, V2022
+#'
+#' @description A data set containing ATC codes, updated 2022
+#' ”@note Only in English
+#' @format A data frame:
+#' \describe{
+#'   \item{ Koodi}{ Code value }
+#'   \item{ en }{ Label inEnglish}
+#'   \item{ fi }{ Label in English}
+#' }
+"ATCKooditV2022"
 #' @title ICPC codes
 #'
 #' @description A data set containing International Classification of Primary Care (ICPC) codes.
@@ -95,7 +106,7 @@ comb.levels<-function(x,N.max=10,lang="fi"){
 #' @title Statistics Finland causes of death time series codes
 #'
 #' @description Statistics Finland causes of death time series codes
-#' ( \url{https://tilastokeskus.fi/til/ksyyt/ksyyt_2018-11-12_luo_001.pdf} )
+#' ( \url{https://stat.fi/en/luokitukset/kuolinsyyt/kuolinsyyt_1_20210101/} )
 #' ”@note Only in English
 #' @format A data frame:
 #' \describe{

@@ -1,7 +1,7 @@
 Package: codeCollection
 Type: Package
 Title: Collection of Codes with Labels
-Version: 0.1.2
+Version: 0.1.3
 Authors@R: 
     person(given = "Jari",
            family = "Haukka",
@@ -14,10 +14,10 @@ Imports: Epi
 License: GPL-2
 Encoding: UTF-8
 LazyData: true
-RoxygenNote: 7.1.1
+RoxygenNote: 7.2.1
 NeedsCompilation: no
-Packaged: 2021-03-30 10:51:51 UTC; jkhaukka
+Packaged: 2023-01-11 10:58:42 UTC; jkhaukka
 Author: Jari Haukka [aut, cre] (<https://orcid.org/0000-0003-1450-6208>)
 Maintainer: Jari Haukka <jari.haukka@helsinki.fi>
 Repository: CRAN
-Date/Publication: 2021-03-31 09:10:09 UTC
+Date/Publication: 2023-01-11 11:20:02 UTC
